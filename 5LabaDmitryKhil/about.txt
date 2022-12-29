@@ -1,0 +1,33 @@
+User number:1
+Input surname:f
+Input name:f
+f
+f
+ff
+f
+f
+Input birthday:12.12.1221
+Input your location (country,region,town,street,numHouse):f	f	f	f	4
+-----------------------------------------------------------------------
+User number:2
+Input surname:g
+Input name:g
+g
+gg
+g
+g
+g
+Input birthday:88.88.8888
+Input your location (country,region,town,street,numHouse):g	g	gg	g	6
+-----------------------------------------------------------------------
+User number:3
+Input surname:d
+Input name:d
+d
+d
+d
+d
+dd
+Input birthday:-858993460.-858993460.-858993460
+Input your location (country,region,town,street,numHouse):d	d	d	d	-858993460
+-----------------------------------------------------------------------
